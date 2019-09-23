@@ -1,0 +1,8 @@
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\bin\Release\OptimalMismatch.exe.config
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\bin\Release\OptimalMismatch.exe
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\bin\Release\OptimalMismatch.pdb
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\obj\Release\OptimalMismatch.Form1.resources
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\obj\Release\OptimalMismatch.Properties.Resources.resources
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\obj\Release\OptimalMismatch.csproj.GenerateResource.Cache
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\obj\Release\OptimalMismatch.exe
+C:\Users\Tunahan\Desktop\Dersler\Metin Verilerde Dizgi Eşleme Yöntemleri\OptimalMismatch\1\OptimalMismatch\OptimalMismatch\obj\Release\OptimalMismatch.pdb
